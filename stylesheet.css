@@ -1,0 +1,42 @@
+body {
+    background-color: blanchedalmond;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    border-style: double;
+}
+
+h2 {
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+
+button {
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: double;
+}
+
+label {
+    text-align:center;
+}
